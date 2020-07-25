@@ -1,4 +1,4 @@
 ## This is a reference to a <a href="https://uxchecklist.github.io">UX Checklist</a>} 
 ## To read
 ## Added New Functionality 1
-## Added New Functionality 2
+## <b>Added New Functionality 2</b>
